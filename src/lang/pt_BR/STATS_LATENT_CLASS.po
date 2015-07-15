@@ -1,0 +1,219 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_LATENT_CLASS.R:73
+msgid "The R poLCA package is required but could not be loaded."
+msgstr ""
+"O pacote R poLCA é necessário, mas não foi possível carregá-lo."
+
+#: STATS_LATENT_CLASS.R:89
+msgid "There are no cases to analyze"
+msgstr ""
+"Não há casos a serem analisados"
+
+#: STATS_LATENT_CLASS.R:91
+msgid "Too few manifest variables specified"
+msgstr ""
+"Muito poucas variáveis de manifesto especificadas"
+
+#: STATS_LATENT_CLASS.R:93
+msgid "An ID variable is required when saving scores"
+msgstr ""
+"Uma variável de ID será necessária ao salvar os escores"
+
+#: STATS_LATENT_CLASS.R:94
+msgid "Latent Class Analysis"
+msgstr ""
+"Análise de classes"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Cases"
+msgstr ""
+"Número de casos"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Complete Cases"
+msgstr ""
+"Número de casos completos"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Parameters Estimated"
+msgstr ""
+"Número de parâmetros estimados"
+
+#: STATS_LATENT_CLASS.R:114
+msgid "Residual D.F"
+msgstr ""
+"Função de Densidade de Resíduo"
+
+#: STATS_LATENT_CLASS.R:114
+msgid "Maximum Log-Likelihood"
+msgstr ""
+"Máxima Verossimilhança de Log"
+
+#: STATS_LATENT_CLASS.R:115
+msgid "AIC(%s)"
+msgstr ""
+"AIC(%s)"
+
+#: STATS_LATENT_CLASS.R:116
+msgid "BIC(%s)"
+msgstr ""
+"BIC(%s)"
+
+#: STATS_LATENT_CLASS.R:117
+msgid "LR/Deviance(%s)"
+msgstr ""
+"LR/Deviance (%s)"
+
+#: STATS_LATENT_CLASS.R:118
+msgid "Chi-squared(%s)"
+msgstr ""
+"Qui-quadrado (%s)"
+
+#: STATS_LATENT_CLASS.R:119
+msgid "Number of repetitions"
+msgstr ""
+"Número de repetições"
+
+#: STATS_LATENT_CLASS.R:125
+msgid "Fit Statistics for %s Latent Classes"
+msgstr ""
+"Estatística de Ajuste para %s Classes Latentes"
+
+#: STATS_LATENT_CLASS.R:126
+msgid "Statistic"
+msgstr ""
+"Estatística"
+
+#: STATS_LATENT_CLASS.R:128
+msgid "LCA Fit Statistics"
+msgstr ""
+"Estatística de ajuste LCA"
+
+#: STATS_LATENT_CLASS.R:132
+msgid "Estimated Class Conditional Probabilities"
+msgstr ""
+"Probabilidades condicionais de classe estimada"
+
+#: STATS_LATENT_CLASS.R:134
+msgid "Probabilities"
+msgstr ""
+"Probabilidades"
+
+#: STATS_LATENT_CLASS.R:135
+msgid "Variable"
+msgstr ""
+"Variável"
+
+#: STATS_LATENT_CLASS.R:136
+#: STATS_LATENT_CLASS.R:208
+msgid "Class"
+msgstr ""
+"Classe"
+
+#: STATS_LATENT_CLASS.R:177
+msgid "Estimates for %s Latent Classes: %s / 1"
+msgstr ""
+"Estimativas para %s Classes Latentes: %s / 1"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Variables"
+msgstr ""
+"Variáveis"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Coefficient"
+msgstr ""
+"Coeficiente"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Std. Error"
+msgstr ""
+"Erro Padrão"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "T Statistic"
+msgstr ""
+"Estatística T"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Sig."
+msgstr ""
+"Sig."
+
+#: STATS_LATENT_CLASS.R:180
+msgid "Estimates for Latent Classes - %s"
+msgstr ""
+"Estimativas para Classes Latentes - %s"
+
+#: STATS_LATENT_CLASS.R:202
+msgid "Probability of Latent Class Membership"
+msgstr ""
+"Probabilidade de associação de classe latente"
+
+#: STATS_LATENT_CLASS.R:207
+#: STATS_LATENT_CLASS.R:210
+msgid "Latent Class Proportions"
+msgstr ""
+"Proporções de classe latente"
+
+#: STATS_LATENT_CLASS.R:208
+msgid "Proportion"
+msgstr ""
+"Proporção"
+
+#: STATS_LATENT_CLASS.R:231
+#: STATS_LATENT_CLASS.R:267
+msgid "Could not create dataset: %s.  The dataset name must not already be in use"
+msgstr ""
+"Não foi possível criar o conjunto de dados: %s. O nome do conjunto de dados não deve já estar em uso"
+
+#: STATS_LATENT_CLASS.R:255
+msgid "Case Id"
+msgstr ""
+"ID de Caso"
+
+#: STATS_LATENT_CLASS.R:255
+msgid "Maximum Probability"
+msgstr ""
+"Probabilidade Máxima"
+
+#: STATS_LATENT_CLASS.R:256
+msgid "Highest Probability Class"
+msgstr ""
+"Classe de Probabilidade Mais Alta"
+
+#: STATS_LATENT_CLASS.R:260
+msgid "Class Probability"
+msgstr ""
+"Probabilidade de Classe"
+
+#: STATS_LATENT_CLASS.R:310
+msgid "Class "
+msgstr ""
+"Classe "
+
+#: STATS_LATENT_CLASS.R:310
+msgid ": population share = "
+msgstr ""
+": parcela da população = "
+
+
