@@ -1,0 +1,219 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_LATENT_CLASS.R:73
+msgid "The R poLCA package is required but could not be loaded."
+msgstr ""
+"Необходим пакет R poLCA, но его не удалось загрузить."
+
+#: STATS_LATENT_CLASS.R:89
+msgid "There are no cases to analyze"
+msgstr ""
+"Нет наблюдений для анализа"
+
+#: STATS_LATENT_CLASS.R:91
+msgid "Too few manifest variables specified"
+msgstr ""
+"Указано слишком мало значений манифеста"
+
+#: STATS_LATENT_CLASS.R:93
+msgid "An ID variable is required when saving scores"
+msgstr ""
+"Переменная ID необходима для сохранения оценок"
+
+#: STATS_LATENT_CLASS.R:94
+msgid "Latent Class Analysis"
+msgstr ""
+"Анализ скрытого класса"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Cases"
+msgstr ""
+"Количество наблюдений"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Complete Cases"
+msgstr ""
+"Количество полных наблюдений"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Parameters Estimated"
+msgstr ""
+"Количество оцениваемых параметров"
+
+#: STATS_LATENT_CLASS.R:114
+msgid "Residual D.F"
+msgstr ""
+"Остаточные ст.св.:"
+
+#: STATS_LATENT_CLASS.R:114
+msgid "Maximum Log-Likelihood"
+msgstr ""
+"Максимальное log-правдоподобие"
+
+#: STATS_LATENT_CLASS.R:115
+msgid "AIC(%s)"
+msgstr ""
+"AIC(%s)"
+
+#: STATS_LATENT_CLASS.R:116
+msgid "BIC(%s)"
+msgstr ""
+"BIC(%s)"
+
+#: STATS_LATENT_CLASS.R:117
+msgid "LR/Deviance(%s)"
+msgstr ""
+"LR/Отклонение(%s)"
+
+#: STATS_LATENT_CLASS.R:118
+msgid "Chi-squared(%s)"
+msgstr ""
+"Хи-квадрат(%s)"
+
+#: STATS_LATENT_CLASS.R:119
+msgid "Number of repetitions"
+msgstr ""
+"Количество повторений"
+
+#: STATS_LATENT_CLASS.R:125
+msgid "Fit Statistics for %s Latent Classes"
+msgstr ""
+"Статистика аппроксимации для латентных классов %s"
+
+#: STATS_LATENT_CLASS.R:126
+msgid "Statistic"
+msgstr ""
+"Статистика"
+
+#: STATS_LATENT_CLASS.R:128
+msgid "LCA Fit Statistics"
+msgstr ""
+"Статистика аппроксимации LCA"
+
+#: STATS_LATENT_CLASS.R:132
+msgid "Estimated Class Conditional Probabilities"
+msgstr ""
+"Оценочные условные вероятности класса"
+
+#: STATS_LATENT_CLASS.R:134
+msgid "Probabilities"
+msgstr ""
+"Вероятности"
+
+#: STATS_LATENT_CLASS.R:135
+msgid "Variable"
+msgstr ""
+"Переменная"
+
+#: STATS_LATENT_CLASS.R:136
+#: STATS_LATENT_CLASS.R:208
+msgid "Class"
+msgstr ""
+"Класс"
+
+#: STATS_LATENT_CLASS.R:177
+msgid "Estimates for %s Latent Classes: %s / 1"
+msgstr ""
+"Оценки для латентных классов %s: %s / 1"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Variables"
+msgstr ""
+"Переменные"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Coefficient"
+msgstr ""
+"Коэффициент"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Std. Error"
+msgstr ""
+"Стд. ошибка"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "T Statistic"
+msgstr ""
+"T-статистика"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Sig."
+msgstr ""
+"Знач."
+
+#: STATS_LATENT_CLASS.R:180
+msgid "Estimates for Latent Classes - %s"
+msgstr ""
+"Оценки для латентных классов - %s"
+
+#: STATS_LATENT_CLASS.R:202
+msgid "Probability of Latent Class Membership"
+msgstr ""
+"Вероятность членства латентного класса"
+
+#: STATS_LATENT_CLASS.R:207
+#: STATS_LATENT_CLASS.R:210
+msgid "Latent Class Proportions"
+msgstr ""
+"Пропорции латентного класса"
+
+#: STATS_LATENT_CLASS.R:208
+msgid "Proportion"
+msgstr ""
+"пропорция"
+
+#: STATS_LATENT_CLASS.R:231
+#: STATS_LATENT_CLASS.R:267
+msgid "Could not create dataset: %s.  The dataset name must not already be in use"
+msgstr ""
+"Не удалось создать набор данных: %s.  Имя набора данных не может уже использоваться"
+
+#: STATS_LATENT_CLASS.R:255
+msgid "Case Id"
+msgstr ""
+"ID наблюдения"
+
+#: STATS_LATENT_CLASS.R:255
+msgid "Maximum Probability"
+msgstr ""
+"Максимальная вероятность"
+
+#: STATS_LATENT_CLASS.R:256
+msgid "Highest Probability Class"
+msgstr ""
+"Высший класс вероятности"
+
+#: STATS_LATENT_CLASS.R:260
+msgid "Class Probability"
+msgstr ""
+"Вероятность класса"
+
+#: STATS_LATENT_CLASS.R:310
+msgid "Class "
+msgstr ""
+"Класс "
+
+#: STATS_LATENT_CLASS.R:310
+msgid ": population share = "
+msgstr ""
+": доля генеральной совокупности = "
+
+
