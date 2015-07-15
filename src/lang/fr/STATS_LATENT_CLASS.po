@@ -1,0 +1,219 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_LATENT_CLASS.R:73
+msgid "The R poLCA package is required but could not be loaded."
+msgstr ""
+"Le pack R poLCA est requis mais n'a pas pu être chargé."
+
+#: STATS_LATENT_CLASS.R:89
+msgid "There are no cases to analyze"
+msgstr ""
+"Il n'y a aucune observation à analyser"
+
+#: STATS_LATENT_CLASS.R:91
+msgid "Too few manifest variables specified"
+msgstr ""
+"Trop peu de variables manifestes ont été spécifiées"
+
+#: STATS_LATENT_CLASS.R:93
+msgid "An ID variable is required when saving scores"
+msgstr ""
+"Une variable ID est requise pour l'enregistrement de scores"
+
+#: STATS_LATENT_CLASS.R:94
+msgid "Latent Class Analysis"
+msgstr ""
+"Analyse de classes latentes"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Cases"
+msgstr ""
+"Nombre d'observations"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Complete Cases"
+msgstr ""
+"Nombre d'observations complètes"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Parameters Estimated"
+msgstr ""
+"Nombre de paramètres estimés"
+
+#: STATS_LATENT_CLASS.R:114
+msgid "Residual D.F"
+msgstr ""
+"D.F résiduel"
+
+#: STATS_LATENT_CLASS.R:114
+msgid "Maximum Log-Likelihood"
+msgstr ""
+"Log de vraisemblance maximum"
+
+#: STATS_LATENT_CLASS.R:115
+msgid "AIC(%s)"
+msgstr ""
+"AIC (%s)"
+
+#: STATS_LATENT_CLASS.R:116
+msgid "BIC(%s)"
+msgstr ""
+"BIC (%s)"
+
+#: STATS_LATENT_CLASS.R:117
+msgid "LR/Deviance(%s)"
+msgstr ""
+"LR/Déviance(%s)"
+
+#: STATS_LATENT_CLASS.R:118
+msgid "Chi-squared(%s)"
+msgstr ""
+"Khi-deux (%s)"
+
+#: STATS_LATENT_CLASS.R:119
+msgid "Number of repetitions"
+msgstr ""
+"Nombre de répétitions"
+
+#: STATS_LATENT_CLASS.R:125
+msgid "Fit Statistics for %s Latent Classes"
+msgstr ""
+"Statistiques d'ajustement pour %s classes latentes"
+
+#: STATS_LATENT_CLASS.R:126
+msgid "Statistic"
+msgstr ""
+"Statistiques"
+
+#: STATS_LATENT_CLASS.R:128
+msgid "LCA Fit Statistics"
+msgstr ""
+"Statistiques d'ajustement LCA"
+
+#: STATS_LATENT_CLASS.R:132
+msgid "Estimated Class Conditional Probabilities"
+msgstr ""
+"Probabilités conditionnelles de classes estimées"
+
+#: STATS_LATENT_CLASS.R:134
+msgid "Probabilities"
+msgstr ""
+"Probabilités"
+
+#: STATS_LATENT_CLASS.R:135
+msgid "Variable"
+msgstr ""
+"Variable"
+
+#: STATS_LATENT_CLASS.R:136
+#: STATS_LATENT_CLASS.R:208
+msgid "Class"
+msgstr ""
+"Classe"
+
+#: STATS_LATENT_CLASS.R:177
+msgid "Estimates for %s Latent Classes: %s / 1"
+msgstr ""
+"Estimations pour %s classes latentes : %s / 1"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Variables"
+msgstr ""
+"Variables"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Coefficient"
+msgstr ""
+"Coefficient"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Std. Error"
+msgstr ""
+"Erreur std."
+
+#: STATS_LATENT_CLASS.R:178
+msgid "T Statistic"
+msgstr ""
+"Statistiques T"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Sig."
+msgstr ""
+"Sig."
+
+#: STATS_LATENT_CLASS.R:180
+msgid "Estimates for Latent Classes - %s"
+msgstr ""
+"Estimations de classes latentes - %s"
+
+#: STATS_LATENT_CLASS.R:202
+msgid "Probability of Latent Class Membership"
+msgstr ""
+"Probabilité de classes latentes d'affectation"
+
+#: STATS_LATENT_CLASS.R:207
+#: STATS_LATENT_CLASS.R:210
+msgid "Latent Class Proportions"
+msgstr ""
+"Proportions de classes latentes"
+
+#: STATS_LATENT_CLASS.R:208
+msgid "Proportion"
+msgstr ""
+"proportion"
+
+#: STATS_LATENT_CLASS.R:231
+#: STATS_LATENT_CLASS.R:267
+msgid "Could not create dataset: %s.  The dataset name must not already be in use"
+msgstr ""
+"Impossible de créer un jeu de données : %s. Le nom de jeu de données ne doit pas déjà avoir été attribué"
+
+#: STATS_LATENT_CLASS.R:255
+msgid "Case Id"
+msgstr ""
+"ID d'observation"
+
+#: STATS_LATENT_CLASS.R:255
+msgid "Maximum Probability"
+msgstr ""
+"Probabilité maximale"
+
+#: STATS_LATENT_CLASS.R:256
+msgid "Highest Probability Class"
+msgstr ""
+"Classe de probabilité la plus élevée"
+
+#: STATS_LATENT_CLASS.R:260
+msgid "Class Probability"
+msgstr ""
+"Probabilité de classe"
+
+#: STATS_LATENT_CLASS.R:310
+msgid "Class "
+msgstr ""
+"Classe "
+
+#: STATS_LATENT_CLASS.R:310
+msgid ": population share = "
+msgstr ""
+": part de la population = "
+
+
