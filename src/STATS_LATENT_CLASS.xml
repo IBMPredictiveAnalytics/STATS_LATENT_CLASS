@@ -1,0 +1,23 @@
+<Command xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extension-1.0.xsd" Name="STATS LATENT CLASS" Language="R" Mode="Source">
+	<Subcommand Name="" IsArbitrary="False" Occurrence="Optional">
+		<Parameter Name="MANIFESTVARS" ParameterType="VariableNameList"/>
+		<Parameter Name="COVARIATES" ParameterType="VariableNameList"/>
+		<Parameter Name="CLASSES" ParameterType="Number"/>
+	</Subcommand>
+	<Subcommand Name="OPTIONS">
+		<Parameter Name="MISSING" ParameterType="Keyword"/>
+		<Parameter Name="REPETITIONS" ParameterType="Number"/>
+		<Parameter Name="MAXITER" ParameterType="Number"/>
+		<Parameter Name="TOL" ParameterType="Number"/>
+	</Subcommand>
+	<Subcommand Name="OUTPUT">
+		<Parameter Name="GRAPHS" ParameterType="Keyword"/>
+	</Subcommand>
+	<Subcommand Name="SAVE">
+		<Parameter Name="PREDCELLDS" ParameterType="DatasetName"/>
+		<Parameter Name="SCOREDS" ParameterType="DatasetName"/>
+		<Parameter Name="IDVAR" ParameterType="VariableName"/>
+		<Parameter Name="FILLER" ParameterType="Keyword"/>
+	</Subcommand>
+	<Subcommand Name="HELP" Occurrence="Optional"/>
+</Command>
