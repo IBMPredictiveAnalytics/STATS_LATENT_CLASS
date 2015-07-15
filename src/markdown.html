@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=9" >
+
+<title>STATS LATENT CLASS Extension Command</title>
+
+<link rel="stylesheet" type="text/css" href="extsyntax.css" />
+
+
+
+
+
+</head>
+
+<body>
+<h1>STATS LATENT CLASS Extension Command</h1>
+<div class="syntax">
+<p>STATS LATENT CLASS  MANIFESTVARS=<em>variables</em><sup>&#42;</sup>
+COVARIATES=<em>variables</em> CLASSES=n<sup>&#42;</sup></p>
+
+<p>/OPTIONS REPETITIONS=<em>m</em> MAXITER=<em>value TOL=value</em>
+MISSING=INCLUDE<sup>&#42;&#42;</sup> or LISTWISE</p>
+
+<p>/OUTPUT GRAPHS=YES<sup>&#42;&#42;</sup> or NO</p>
+
+<p>/SAVE PREDCELLDS=<em>dataset</em> SCOREDS=<em>dataset</em> IDVAR=<em>varname</em></p>
+
+<p>/HELP</p>
+
+
+
+<p><sup>&#42;</sup> Required<br/>
+<sup>&#42;&#42;</sup> Default</p>
+</div>
+<p>STATS LATENT CLASS /HELP prints this information and does nothing else.</p>
+
+<pre class="example"><code>STATS LATENT CLASS MANIFESTVARS = a b c CLASSES=3
+/OPTIONS REPETITIONS = 5.
+</code></pre>
+
+<p><strong>MANIFESTVARS</strong> and <strong>COVARIATES</strong> list the categorical and covariate variables.
+The categorical variables must have integer values starting at 1.
+If covariates are listed, latent class regression models are estimated.  MANIFESTVARS
+is required, but COVARIATES is optional.</p>
+
+<p><strong>CLASSES</strong> is the number of latent classes</p>
+
+<h2>OPTIONS</h2>
+
+<p>In order to minimize the chance of finding only a local maximum of the likelihood, the
+procedure can reestimate at different random starting values.  <strong>REPETITIONS</strong>, default 10,
+specifies how many sets to try.</p>
+
+<p><strong>MAXITER</strong>, default 1000, specifies the maximum number of iterations</p>
+
+<p><strong>TOL</strong> specifies the convergence criterion.</p>
+
+<p><strong>MISSING</strong>=INCLUDE uses all available nonmissing data.  LISTWISE does listwise deletion of
+cases.  Missing covariate values always cause the case to be deleted.</p>
+
+<h2>OUTPUT</h2>
+
+<p><strong>GRAPHS</strong> controls whether graphs are displayed.</p>
+
+<h2>SAVE</h2>
+
+<p><strong>PREDCELLS</strong> can specify a new dataset to be created holding the classification probabilities -
+observed and expected</p>
+
+<p><strong>SCOREDS</strong> can specify a new dataset to be created holding the scores for the model.
+If SCORES is specified, <strong>IDVAR</strong> is required and will be included in the dataset in order
+to facilitate merging with the input data.
+The scores dataset has variables, the ID, MaxProb, and MaxClass followed by
+probability variables for each class.</p>
+
+<p>&copy; Copyright IBM Corp. 1989, 2014</p>
+
+</body>
+
+</html>
+
