@@ -1,0 +1,219 @@
+#/***********************************************************************
+# * Licensed Materials - Property of IBM 
+# *
+# * IBM SPSS Products: Statistics Common
+# *
+# * (C) Copyright IBM Corp. 1989, 2014
+# *
+# * US Government Users Restricted Rights - Use, duplication or disclosure
+# * restricted by GSA ADP Schedule Contract with IBM Corp. 
+# ************************************************************************/
+
+# NLS_ENCODING=UTF-8
+# IBMUPYTH
+
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: STATS_LATENT_CLASS.R:73
+msgid "The R poLCA package is required but could not be loaded."
+msgstr ""
+"R poLCA パッケージが必要ですが、読み込むことができませんでした。"
+
+#: STATS_LATENT_CLASS.R:89
+msgid "There are no cases to analyze"
+msgstr ""
+"分析するケースがありません"
+
+#: STATS_LATENT_CLASS.R:91
+msgid "Too few manifest variables specified"
+msgstr ""
+"指定されているマニフェスト変数が少ないです"
+
+#: STATS_LATENT_CLASS.R:93
+msgid "An ID variable is required when saving scores"
+msgstr ""
+"スコアを保存する場合にはID 変数が必要です"
+
+#: STATS_LATENT_CLASS.R:94
+msgid "Latent Class Analysis"
+msgstr ""
+"潜在クラス分析"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Cases"
+msgstr ""
+"ケースの数"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Complete Cases"
+msgstr ""
+"完全なケースの数"
+
+#: STATS_LATENT_CLASS.R:113
+msgid "Number of Parameters Estimated"
+msgstr ""
+"推定パラメータ数"
+
+#: STATS_LATENT_CLASS.R:114
+msgid "Residual D.F"
+msgstr ""
+"残差自由度:"
+
+#: STATS_LATENT_CLASS.R:114
+msgid "Maximum Log-Likelihood"
+msgstr ""
+"最大対数尤度"
+
+#: STATS_LATENT_CLASS.R:115
+msgid "AIC(%s)"
+msgstr ""
+"AIC(%s)"
+
+#: STATS_LATENT_CLASS.R:116
+msgid "BIC(%s)"
+msgstr ""
+"BIC(%s)"
+
+#: STATS_LATENT_CLASS.R:117
+msgid "LR/Deviance(%s)"
+msgstr ""
+"LR/分散(%s)"
+
+#: STATS_LATENT_CLASS.R:118
+msgid "Chi-squared(%s)"
+msgstr ""
+"カイ 2 乗(%s)"
+
+#: STATS_LATENT_CLASS.R:119
+msgid "Number of repetitions"
+msgstr ""
+"反復数"
+
+#: STATS_LATENT_CLASS.R:125
+msgid "Fit Statistics for %s Latent Classes"
+msgstr ""
+"%s の潜在クラスの適合度統計"
+
+#: STATS_LATENT_CLASS.R:126
+msgid "Statistic"
+msgstr ""
+"統計"
+
+#: STATS_LATENT_CLASS.R:128
+msgid "LCA Fit Statistics"
+msgstr ""
+"LCA 適合度統計"
+
+#: STATS_LATENT_CLASS.R:132
+msgid "Estimated Class Conditional Probabilities"
+msgstr ""
+"推定クラス条件確率"
+
+#: STATS_LATENT_CLASS.R:134
+msgid "Probabilities"
+msgstr ""
+"確率(P)"
+
+#: STATS_LATENT_CLASS.R:135
+msgid "Variable"
+msgstr ""
+"変数"
+
+#: STATS_LATENT_CLASS.R:136
+#: STATS_LATENT_CLASS.R:208
+msgid "Class"
+msgstr ""
+"クラス"
+
+#: STATS_LATENT_CLASS.R:177
+msgid "Estimates for %s Latent Classes: %s / 1"
+msgstr ""
+"%s の潜在クラスの推定:  %s / 1"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Variables"
+msgstr ""
+"変数"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Coefficient"
+msgstr ""
+"係数"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Std. Error"
+msgstr ""
+"標準誤差"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "T Statistic"
+msgstr ""
+"T 統計量"
+
+#: STATS_LATENT_CLASS.R:178
+msgid "Sig."
+msgstr ""
+"有意確率"
+
+#: STATS_LATENT_CLASS.R:180
+msgid "Estimates for Latent Classes - %s"
+msgstr ""
+"潜在クラスの推定 - %s"
+
+#: STATS_LATENT_CLASS.R:202
+msgid "Probability of Latent Class Membership"
+msgstr ""
+"潜在クラス メンバーシップの確率"
+
+#: STATS_LATENT_CLASS.R:207
+#: STATS_LATENT_CLASS.R:210
+msgid "Latent Class Proportions"
+msgstr ""
+"潜在クラスの割合"
+
+#: STATS_LATENT_CLASS.R:208
+msgid "Proportion"
+msgstr ""
+"比率"
+
+#: STATS_LATENT_CLASS.R:231
+#: STATS_LATENT_CLASS.R:267
+msgid "Could not create dataset: %s.  The dataset name must not already be in use"
+msgstr ""
+"データセットを作成できませんでした (%s)。データセット名は、まだ使用されていない名前にする必要があります"
+
+#: STATS_LATENT_CLASS.R:255
+msgid "Case Id"
+msgstr ""
+"ケース ID"
+
+#: STATS_LATENT_CLASS.R:255
+msgid "Maximum Probability"
+msgstr ""
+"最大確率"
+
+#: STATS_LATENT_CLASS.R:256
+msgid "Highest Probability Class"
+msgstr ""
+"最高確率クラス"
+
+#: STATS_LATENT_CLASS.R:260
+msgid "Class Probability"
+msgstr ""
+"クラス確率"
+
+#: STATS_LATENT_CLASS.R:310
+msgid "Class "
+msgstr ""
+"クラス "
+
+#: STATS_LATENT_CLASS.R:310
+msgid ": population share = "
+msgstr ""
+": 母集団の共有 = "
+
+
