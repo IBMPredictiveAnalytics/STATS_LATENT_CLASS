@@ -1,11 +1,13 @@
 # STATS LATENT CLASS
 ## Latent Class Analysis
- Extension command for latent class analysis including lat
+ Extension command for latent class analysis including latent class regression using the R poLCA package by Drew Linzer and Jeffrey Lewis.
 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for R.
+
+Note: For users with IBM SPSS Statistics version 21 or higher, the STATS LATENT CLASS extension is installed as part of IBM SPSS Statistics-Essentials for R.
 
 ---
 Installation intructions
