@@ -8,7 +8,7 @@ Description: Extension command for latent class analysis including lat
  ent class regression using the R poLCA package by Drew Linzer and Jef
  frey Lewis
 Author: JKP, IBM SPSS
-Version: 1.3.7
+Version: 1.3.8
 Product-Version: 18
 Date: 1/2/2014
 Categories: statistics
